@@ -14,3 +14,8 @@ Useful resources:
 - Cards to print and plastify (fr+en): [pptx](./squad-health-check-model.pptx)/[pdf](./squad-health-check-model.pdf)
 - Free online health check (en, but editable): https://squadhealthcheck.info/
 - Offline spreadsheet: [xlsx/fr](./SquadHealthCheck_fr.xlsx) [xlsx/en](./SquadHealthCheck_en.xlsx)
+
+Agile tour Rennes 2021:
+
+- Roti express to get feedback: https://roti.express/r/agt2021-76
+
